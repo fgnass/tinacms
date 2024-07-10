@@ -1,5 +1,13 @@
 # @tinacms/app
 
+## 1.2.44
+
+### Patch Changes
+
+- Updated dependencies [fd216f3]
+- Updated dependencies [20f972a]
+  - tinacms@1.6.6
+
 ## 1.2.43
 
 ### Patch Changes

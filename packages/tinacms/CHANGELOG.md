@@ -1,5 +1,12 @@
 # tinacms
 
+## 1.6.6
+
+### Patch Changes
+
+- fd216f3: updated TinaCloud auth modal text
+- 20f972a: Fix collections header styling for smaller screens
+
 ## 1.6.5
 
 ### Patch Changes
